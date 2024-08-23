@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/YMBModule21Challenge/static/css/main.d72c5cd5.css",
+    "main.js": "/YMBModule21Challenge/static/js/main.96d9f75b.js",
+    "static/js/453.90a21e08.chunk.js": "/YMBModule21Challenge/static/js/453.90a21e08.chunk.js",
+    "index.html": "/YMBModule21Challenge/index.html",
+    "main.d72c5cd5.css.map": "/YMBModule21Challenge/static/css/main.d72c5cd5.css.map",
+    "main.96d9f75b.js.map": "/YMBModule21Challenge/static/js/main.96d9f75b.js.map",
+    "453.90a21e08.chunk.js.map": "/YMBModule21Challenge/static/js/453.90a21e08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d72c5cd5.css",
+    "static/js/main.96d9f75b.js"
+  ]
+}
